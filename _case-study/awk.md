@@ -8,5 +8,3 @@ categories:
 tags:
   - Brian Kernighan
 ---
-
-{% include cs-parc.md %}
