@@ -9,4 +9,4 @@ tags:
   - Brian Kernighan
 ---
 
-{% include cs-awk.md %}
+{% include_relative cs-awk.md %}
