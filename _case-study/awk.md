@@ -8,3 +8,5 @@ categories:
 tags:
   - Brian Kernighan
 ---
+
+{% include cs-awk.md %}
