@@ -8,5 +8,3 @@ tags:
   - Unix
 
 ---
-
-{% include bio-atkinson.md %}
