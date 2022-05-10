@@ -8,3 +8,5 @@ tags:
   - Unix
 
 ---
+
+{% include bio-kernighan.md %}
