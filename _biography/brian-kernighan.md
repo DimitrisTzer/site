@@ -9,4 +9,4 @@ tags:
 
 ---
 
-{% include bio-kernighan.md %}
+{% include bio-brian-kernighan.md %}
